@@ -1,4 +1,4 @@
-```markdown
+
 # Confidential Chat Application
 
 This is a Python-based GUI application built using `tkinter` for encoding and decoding text using custom codes, emojis, and symbols. The application also supports password protection and offers multiple encoding schemes.
