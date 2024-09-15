@@ -18,7 +18,6 @@ This is a Python-based GUI application built using `tkinter` for encoding and de
 - Python 3.x
 - Libraries: 
   - `tkinter`
-  - `flask`
   - `pyperclip` (optional, for clipboard functionality)
 
 ## How to Run
@@ -31,13 +30,13 @@ This is a Python-based GUI application built using `tkinter` for encoding and de
    ```
 4. Run the Python file:
    ```bash
-   python confidential_chat.py
+   python app.py
    ```
 
 ## Usage
 
 1. Launch the application.
-2. Enter the password. (Default: `CoDe`)
+2. Enter the password. (Default: `CoDe` Special:`CoDe@2`)
 3. Select the encoding scheme:
    - **Symbols**: Code 1 (e.g., `!`, `@`)
    - **Emojis**: Code 2 (e.g., `😀`, `😂`)
